@@ -13,8 +13,6 @@ A web-based YouTube Video Downloader that allows users to download videos in var
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript  
 - **Others:** AJAX for real-time progress updates  
 
-## 📷 Screenshots  
-<img src=""C:\Users\User\OneDrive\Gambar\Screenshot\Screenshot 2025-03-12 163955.png"" width="800px">  
-<img src=""C:\Users\User\OneDrive\Gambar\Screenshot\Screenshot 2025-03-12 164550.png"" width="800px">  
+
 
 
