@@ -17,7 +17,6 @@ A web-based YouTube Video Downloader that allows users to download videos in MP4
 
 - 1️⃣ Enter a YouTube URL
 - 2️⃣ Click "Download"
-- 
 <img src="https://raw.githubusercontent.com/faissssss/youtube-downloader/main/download.png" width="50%">
 
 - 3️⃣ File gets processed & saved to your device
