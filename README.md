@@ -14,7 +14,7 @@ A web-based YouTube Video Downloader that allows users to download videos in MP4
 - **Others:** AJAX for real-time progress updates  
 
 ## 🎯 How It Works
-![Image Description](https://raw.githubusercontent.com/faissssss/youtube-downloader/main/homepage.png)
+<img src="https://raw.githubusercontent.com/faissssss/youtube-downloader/main/homepage.png" width="50%">
 
 - 1️⃣ Enter a YouTube URL
 - 2️⃣ Select Format (MP4 or MP3)
