@@ -13,7 +13,7 @@ A web-based YouTube Video Downloader that allows users to download videos in MP4
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript  
 - **Others:** AJAX for real-time progress updates  
 
-🎯 How It Works
+## 🎯 How It Works
 1️⃣ Enter a YouTube URL
 2️⃣ Select Format (MP4 or MP3)
 3️⃣ Choose Resolution (for videos)
