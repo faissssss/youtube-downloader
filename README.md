@@ -3,8 +3,7 @@
 A web-based YouTube Video Downloader that allows users to download videos in MP4 and resolutions (360p, 720p, 1080p). Built using **Flask**, **Pytube**, and **Bootstrap** for an intuitive and responsive interface.
 
 ## 🚀 Features  
-✅ Download YouTube videos in **MP4**  
-✅ Choose from multiple resolutions (**360p, 720p, 1080p, etc.**)   
+✅ Download YouTube videos in **MP4**   
 ✅ Simple and **user-friendly interface**  
 ✅ Error handling for **invalid links or unavailable formats**  
 
@@ -15,12 +14,9 @@ A web-based YouTube Video Downloader that allows users to download videos in MP4
 
 ## 🎯 How It Works
 <img src="https://raw.githubusercontent.com/faissssss/youtube-downloader/main/homepage.png" width="50%">
-
 - 1️⃣ Enter a YouTube URL
-- 2️⃣ Select Format (MP4 or MP3)
-- 3️⃣ Choose Resolution (for videos)
-- 4️⃣ Click "Download"
-- 5️⃣ File gets processed & saved to your device
-
+- 2️⃣ Click "Download"
+<img src="https://raw.githubusercontent.com/faissssss/youtube-downloader/main/homepage.png" width="50%">
+- 3️⃣ File gets processed & saved to your device
 
 
